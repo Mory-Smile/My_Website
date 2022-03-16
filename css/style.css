@@ -139,7 +139,7 @@ section.main .social-icons i:hover {
 section.main .main-img {
     position: absolute;
     top: 20%;
-    right: 0;
+    right: 25px;
     z-index: -1;
     transition: .5s;
 }
